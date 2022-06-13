@@ -1,10 +1,12 @@
 name: curation_workflow
 channels:
+  - default
+  - rdkit
   - conda-forge 
+  - chembl
 dependencies:
   - pip
   - ipywidgets==7.7.0
-  - openpyxl
   - pandas
   - rdkit==2021.03.5
   - pip:
