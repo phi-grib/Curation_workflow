@@ -6,7 +6,7 @@ channels:
   - chembl
 dependencies:
   - ipywidgets==7.7.0
-  . openpyxl
+  - openpyxl
   - pandas
   - rdkit==2021.03.5
   - pip:
