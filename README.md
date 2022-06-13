@@ -3,4 +3,4 @@ Wokflow intended to download data from ChEMBL and prepare it for modelling in Fl
 
 
 # Executing the notebook from Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phi-grib/Curation_workflow.git/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fphi-grib%2FCuration_workflow%2Fblob%2Fmain%2FWorkflow_prototype.ipynb)<br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phi-grib/Curation_workflow/3ce6af8c3127c9d11a00b651a3588d27328824e5?urlpath=lab%2Ftree%2FWorkflow_prototype.ipynb)<br>
